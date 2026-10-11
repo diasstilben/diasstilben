@@ -37,7 +37,9 @@ Minha jornada de desenvolvimento envolve projetar soluções completas, da estru
 
 ---
 
-### 👾 Devorando meus commits...
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diasstilben&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Linguagens mais usadas" />
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/diasstilben/diasstilben/output/github-contribution-grid-snake.svg" alt="Snake animation" />
