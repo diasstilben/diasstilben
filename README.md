@@ -39,7 +39,7 @@ Minha jornada de desenvolvimento envolve projetar soluções completas, da estru
 ### 👾 Devorando meus commits...
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/diasstilben/diasstilben/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/diasstilben/diasstilben/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
