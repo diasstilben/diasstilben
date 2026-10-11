@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-- 🎓 Tenho 20 anos e sou estudante da UERJ.
+- 🎓 Tenho 20 anos, sou estudante da UERJ e atualmente faço parte do setor de Propulsão da Equipe Serra Rocketry 
 - ⚙️ Trabalho na interseção entre o mundo físico e o digital, unindo design de hardware e lógica de programação.
 - 🔩 Tenho facilidade em transformar ideias em realidade, desde a prototipagem de peças físicas até a programação de componentes eletrônicos.
 - 💡 Entusiasta por **sistemas embarcados, modelagem 3D (CAD) e arquitetura de banco de dados**.
