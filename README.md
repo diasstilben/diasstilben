@@ -5,12 +5,12 @@
 <h1 align="center">Olá, eu sou o João Teixeira 👋</h1>
 
 <p align="center">
-  <i>Estudante de Engenharia de Computação no **Instituto Politécnico da UERJ (UERJ-IPRJ)**. </i>
+  <i>Estudante de Engenharia de Computação no Instituto Politécnico da UERJ (UERJ-IPRJ). </i>
 </p>
 
 ## 👨‍💻 Sobre Mim
 
-- 🎓 Tenho 20 anos e sou estudante no **Instituto Politécnico da UERJ (UERJ-IPRJ)**.
+- 🎓 Tenho 20 anos e sou estudante da UERJ.
 - ⚙️ Trabalho na interseção entre o mundo físico e o digital, unindo design de hardware e lógica de programação.
 - 🔩 Tenho facilidade em transformar ideias em realidade, desde a prototipagem de peças físicas até a programação de componentes eletrônicos.
 - 💡 Entusiasta por **sistemas embarcados, modelagem 3D (CAD) e arquitetura de banco de dados**.
