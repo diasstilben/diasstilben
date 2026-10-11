@@ -51,7 +51,7 @@
 
 ## 📫 Como me encontrar
 
-*Fique à vontade para entrar em contato:*
+*A seguir meus contatos:*
 
 <p align="left">
   <a href="mailto:joao.teixeira@grad.iprj.uerj.br" target="_blank">
