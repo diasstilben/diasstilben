@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/SolidWorks-C32026?style=for-the-badge&logo=Dassault-Systèmes&logoColor=white" alt="SolidWorks"/>
+  <img src="https://img.shields.io/badge/SolidWorks-C32026?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks"/>
   <img src="https://img.shields.io/badge/Onshape-115E59?style=for-the-badge&logo=onshape&logoColor=white" alt="Onshape"/>
   <img src="https://img.shields.io/badge/Microcontroladores-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Microcontroladores"/>
 </p>
