@@ -19,7 +19,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Este é o passo que faltava para evitar o erro!
       - name: Create dist directory
         run: mkdir -p dist
 
