@@ -5,7 +5,7 @@
 <h1 align="center">Olá, eu sou o João Teixeira 👋</h1>
 
 <p align="center">
-  <i>Estudante no IPRJ | Microcontroladores, Modelagem 3D e Desenvolvimento de Software</i>
+  <i>Estudante de Engenharia de Computação no **Instituto Politécnico da UERJ (UERJ-IPRJ)**. </i>
 </p>
 
 ## 👨‍💻 Sobre Mim
