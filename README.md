@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o João Dias Stilben Teixeira 👋</h1>
+<h1 align="center">Olá, me chamo João Dias Stilben Teixeira 👋</h1>
 
 <p align="center">
   <i>Tenho 20 anos e sou estudante no <b>Instituto Politécnico da UERJ (UERJ-IPRJ)</b>. Sou apaixonado por conectar o mundo físico ao digital, atuando na ponte entre hardware, mecânica e software.</i>
@@ -30,16 +30,13 @@ Minha jornada de desenvolvimento envolve projetar soluções completas, da estru
 
 ### 📊 Linguagens Mais Utilizadas
 
-<!-- Substitua "SEU_USUARIO_AQUI" pelo seu nome de usuário do GitHub nas linhas abaixo -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diasstilben&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Linguagens mais usadas" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diasstilben&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Linguagens mais usadas" />
-</div>
+### 👾 Devorando meus commits...
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/diasstilben/diasstilben/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -50,10 +47,10 @@ Minha jornada de desenvolvimento envolve projetar soluções completas, da estru
 ### 📫 Vamos nos conectar?
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/diasstilben/">
+  <a href="https://www.linkedin.com/in/diasstilben/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="joao.teixeira@grad.iprj.uerj.br">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:joao.teixeira@grad.iprj.uerj.br" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
