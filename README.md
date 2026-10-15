@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/SolidWorks-C32026?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks"/>
   <img src="https://img.shields.io/badge/Onshape-115E59?style=for-the-badge&logo=onshape&logoColor=white" alt="Onshape"/>
   <img src="https://img.shields.io/badge/Microcontroladores-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Microcontroladores"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diasstilben)
   
 </p>
 
