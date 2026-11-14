@@ -40,9 +40,14 @@ Trabalho na interseção entre o mundo físico e o digital, unindo **design de h
 <!-- ===================== ESTATÍSTICAS ===================== -->
 ## Estatísticas e Commits
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diasstilben&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=Linguagens%20mais%20usadas" alt="Linguagens mais usadas" />
-</div>
+<!-- Card gerado pelo workflow .github/workflows/top-langs.yml -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diasstilben/diasstilben/HEAD/profile/top-langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diasstilben/diasstilben/HEAD/profile/top-langs-light.svg">
+    <img alt="Linguagens mais usadas" src="https://raw.githubusercontent.com/diasstilben/diasstilben/HEAD/profile/top-langs-dark.svg">
+  </picture>
+</p>
 
 <br>
 
