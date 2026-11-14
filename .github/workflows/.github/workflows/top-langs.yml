@@ -1,0 +1,43 @@
+name: Atualizar card de linguagens
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # todo dia às 00:00 (horário de Brasília)
+  workflow_dispatch:       # permite rodar manualmente pela aba Actions
+  push:
+    paths:
+      - ".github/workflows/top-langs.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  top-langs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Gerar card (tema escuro)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=dracula&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=Linguagens%20mais%20usadas
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Gerar card (tema claro)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=true&title_color=0969DA&custom_title=Linguagens%20mais%20usadas
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Salvar cards no repositório
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Atualiza card de linguagens" || exit 0
+          git push
