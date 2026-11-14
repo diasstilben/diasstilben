@@ -1,6 +1,6 @@
 <!-- ===================== CABEÇALHO ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=200&section=header&text=Jo%C3%A3o%20Teixeira&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Engenharia%20de%20Computa%C3%A7%C3%A3o%20%7C%20UERJ-IPRJ&descSize=17&descAlignY=56&animation=fadeIn" alt="João Dias Stilben Teixeira — Engenharia de Computação | UERJ-IPRJ" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=200&section=header&text=Jo%C3%A3o%20Dias%20Stilben%20Teixeira&fontSize=36&fontColor=FFFFFF&fontAlignY=36&desc=Engenharia%20de%20Computa%C3%A7%C3%A3o%20%7C%20UERJ-IPRJ&descSize=17&descAlignY=56&animation=fadeIn" alt="João Dias Stilben Teixeira — Engenharia de Computação | UERJ-IPRJ" width="100%"/>
 </p>
 
 <p align="center">
